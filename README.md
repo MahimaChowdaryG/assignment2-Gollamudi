@@ -20,3 +20,4 @@ Other places to visit surrounding the museum:
 * Mecca Masjid
 * Purani Haveli
 
+[Click here to know AboutMe](./AboutMe.md)
