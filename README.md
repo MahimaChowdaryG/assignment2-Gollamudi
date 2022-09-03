@@ -21,3 +21,16 @@ Other places to visit surrounding the museum:
 * Purani Haveli
 
 [Click here to know AboutMe](./AboutMe.md)
+
+----------------------------------------------------------------
+
+### Recommended cities to visit
+
+My recommendation for the list of cities to vist along with their important locations and amount of expenditure are
+
+| Name of City | Important location to visit | Amount to spend |
+| ------------ | --------------------------- | --------------- |
+| Vijayawada   | KanakaDurga Temple          | 500             |
+| Hyderabad    | NTR Park                    | 900             |
+| Vizag        | Beach                       | 400             |
+| Goa          | Titos lane                  | 2000            |
