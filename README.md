@@ -34,3 +34,11 @@ My recommendation for the list of cities to vist along with their important loca
 | Hyderabad    | NTR Park                    | 5 hours         |
 | Vizag        | Beach                       | 1 hours         |
 | Goa          | Titos lane                  | 6 hours         |
+
+-------------------------------------------------------------------
+
+### Quotes
+
+> You will face many defeats in life, but never let yourself be defeated. - *Stephen Chbosky*
+
+> The greatest glory in living lies not in never falling, but in rising every time we fall.  - *John Steinbeck*
