@@ -26,9 +26,9 @@ Other places to visit surrounding the museum:
 
 ### Recommended cities to visit
 
-My recommendation for the list of cities to vist along with their important locations and amount of expenditure are
+My recommendation for the list of cities to vist along with their important locations and amount of time to spend are
 
-| Name of City | Important location to visit | Amount to spend |
+| City Name    | Visit Spot                  | Time to spend   |
 | ------------ | --------------------------- | --------------- |
 | Vijayawada   | KanakaDurga Temple          | 500             |
 | Hyderabad    | NTR Park                    | 900             |
