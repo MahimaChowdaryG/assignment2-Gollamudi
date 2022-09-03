@@ -30,7 +30,7 @@ My recommendation for the list of cities to vist along with their important loca
 
 | City Name    | Visit Spot                  | Time to spend   |
 | ------------ | --------------------------- | --------------- |
-| Vijayawada   | KanakaDurga Temple          | 500             |
-| Hyderabad    | NTR Park                    | 900             |
-| Vizag        | Beach                       | 400             |
-| Goa          | Titos lane                  | 2000            |
+| Vijayawada   | KanakaDurga Temple          | 2 hours         |
+| Hyderabad    | NTR Park                    | 5 hours         |
+| Vizag        | Beach                       | 1 hours         |
+| Goa          | Titos lane                  | 6 hours         |
