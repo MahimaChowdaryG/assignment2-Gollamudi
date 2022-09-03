@@ -42,3 +42,21 @@ My recommendation for the list of cities to vist along with their important loca
 > You will face many defeats in life, but never let yourself be defeated. - *Stephen Chbosky*
 
 > The greatest glory in living lies not in never falling, but in rising every time we fall.  - *John Steinbeck*
+
+---------------------------------------------------------------------
+
+### Code Snippets
+
+> Is there a Possibility with WordPress REST API to allow a user to delete his own User-Account? I need this for GDPR compliance.
+
+Refer to the following link for possible solution: <https://stackoverflow.com/questions/73586465/wordpress-rest-api-delete-user>
+
+```
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('myfont.woff2') format('woff2'),
+        url('myfont.woff') format('woff');
+}
+```
+
+Snippet Source: <https://css-tricks.com/snippets/css/using-font-face-in-css/>
