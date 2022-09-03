@@ -19,3 +19,4 @@ Other places to visit surrounding the museum:
 * Charminar
 * Mecca Masjid
 * Purani Haveli
+
