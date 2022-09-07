@@ -47,16 +47,33 @@ My recommendation for the list of cities to vist along with their important loca
 
 ### Code Snippets
 
-> Is there a Possibility with WordPress REST API to allow a user to delete his own User-Account? I need this for GDPR compliance.
+> I have custom post types called clients, need to display 5 clients per page with pagination. The page what i have is page-clients.php.I have used the wp_pagenavi plugin.I get a perfect navigation list 1,2,3 etc but on clicking them takes me to page not found
 
-Refer to the following link for possible solution: <https://stackoverflow.com/questions/73586465/wordpress-rest-api-delete-user>
+Refer to the following link: <https://stackoverflow.com/questions/15524195/wordpress-custom-post-page-with-pagination>
 
 ```
-@font-face {
-  font-family: 'MyWebFont';
-  src:  url('myfont.woff2') format('woff2'),
-        url('myfont.woff') format('woff');
-}
+<?php 
+  $temp = $wp_query; 
+  $wp_query = null; 
+  $wp_query = new WP_Query(); 
+  $wp_query->query('showposts=6&post_type=news'.'&paged='.$paged); 
+
+  while ($wp_query->have_posts()) : $wp_query->the_post(); 
+?>
+
+  <!-- LOOP: Usual Post Template Stuff Here-->
+
+<?php endwhile; ?>
+
+<nav>
+    <?php previous_posts_link('&laquo; Newer') ?>
+    <?php next_posts_link('Older &raquo;') ?>
+</nav>
+
+<?php 
+  $wp_query = null; 
+  $wp_query = $temp;  // Reset
+?>
 ```
 
-Snippet Source: <https://css-tricks.com/snippets/css/using-font-face-in-css/>
+Source: <https://css-tricks.com/snippets/wordpress/paginate-custom-post-types/>
