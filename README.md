@@ -45,7 +45,7 @@ My recommendation for the list of cities to vist along with their important loca
 
 ---------------------------------------------------------------------
 
-### Code Snippets
+### Paginate Custom Post Types in Wordpress
 
 > I have custom post types called clients, need to display 5 clients per page with pagination. The page what i have is page-clients.php.I have used the wp_pagenavi plugin.I get a perfect navigation list 1,2,3 etc but on clicking them takes me to page not found
 
